@@ -9,4 +9,4 @@ Demo shows below:
 
 <a><img src="https://media.giphy.com/media/3osBL3PvUnTKdWe5Xi/giphy.gif"></a>
 
-Python package needed: 1. Numpy; 2. Matplotlib
+Python packages needed: 1. Numpy; 2. Matplotlib
