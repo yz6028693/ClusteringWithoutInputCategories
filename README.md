@@ -7,6 +7,6 @@ This program is based on my understanding with the paper. It might be different 
 
 Demo shows below:
 
-<a><img src="Gifs&Images/TF.gif"></a>
+<a><img src="Gifs&Images/Cluster.gif"></a>
 
 Python packages needed: 1. Numpy; 2. Matplotlib
