@@ -7,6 +7,6 @@ This program is based on my understanding with the paper. It might be different 
 
 Demo shows below:
 
-<a><img src="https://media.giphy.com/media/3osBL3PvUnTKdWe5Xi/giphy.gif"></a>
+<a><img src="Gifs&Images/TF.gif"></a>
 
 Python packages needed: 1. Numpy; 2. Matplotlib
